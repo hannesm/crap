@@ -1,0 +1,6 @@
+---
+title: A
+author: B
+tags: a, b, c, d
+abstract: none
+---
